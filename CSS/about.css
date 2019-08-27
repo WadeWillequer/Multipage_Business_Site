@@ -1,9 +1,26 @@
 #BusinessPhoto1 {
     width: 400px;
     height: 200px;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
 }
 
 #BusinessPhoto2 {
     width: 400px;
     height: 200px;
+    float: right;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+#Aboutheader {
+    text-align: center;
+}
+
+.container {
+    margin: 20px;
+    display: inline-block;
+    border: 3px double black;
+    padding: 5px;
 }
