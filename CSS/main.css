@@ -1,6 +1,7 @@
 body {
     background-color: lightslategray;
     margin: 0;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 /* Targeting a class in CSS - every element with the class of header will recieve these CSS rules */
